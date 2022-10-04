@@ -1,0 +1,26 @@
+<a data-el="jumpDetailEl" data-id="BJ1631246234284982272" data-type="203500000001" data-byj="0" data-ad_code="0" data-ad_type="0" data-str1="0.00012" data-str2="0" data-click_position="0" href="/chuzu/bj/zufang/BJ1631246234284982272.html?h=BJ1631246234284982272&amp;t=default&amp;click_position=0&amp;ad_code=0&amp;ad_type=0&amp;distribution_type=203500000001&amp;unique_id=c3ff3ec4e09c4fc38d7b1aef4814910bchuzubjzufangThuMay122022091730">
+                <span class="content__item--pic">
+                  <img class="content__item__aside lazyloaded" data-el="lazy-img" alt="整租·西城天铸 3室1厅 南/北" src="https://image1.ljcdn.com/110000-inspection/pc1_MrAZYnn2r.jpg!m_fill,w_248,h_186,l_flianjia_black,o_auto" data-src="https://image1.ljcdn.com/110000-inspection/pc1_MrAZYnn2r.jpg!m_fill,w_248,h_186,l_flianjia_black,o_auto" data-expand="200">
+                                        <!-- 广告标签 -->
+                                        <!-- 毕业季活动标签 -->
+                                    </span>
+                <div class="content__item__main">
+                    <p class="content__item__title">
+                                                整租·西城天铸 3室1厅 南/北                    </p>
+                    <p class="content__item__content">
+                                                贝壳优选/89.00㎡/丽泽/距六里桥站0.5km                    </p>
+                                            <p class="content__item__tag--wrapper">
+                                                                                                                            <i class="content__item__tag--tuoguan" style="background:#64C8DC;color:#FFFFFF">贝壳省心租</i>
+                                                                    <i class="content__item__tag--is_subway_house" style="">近地铁</i>
+                                                                    <i class="content__item__tag--decoration" style="">精装</i>
+                                                                    <i class="content__item__tag--central_heating" style="">集中供暖</i>
+                                                                    <i class="content__item__tag--two_bathroom" style="">双卫生间</i>
+                                                                    <i class="content__item__tag--is_key" style="">随时看房</i>
+                                                                                    </p>
+                                        <p class="content__item__bottom">
+                        <!-- 是否是毕业季活动 -->
+                                              8300                        <span class="content__item__bottom--light">元/月</span>
+                        <span class="content__item__bottom--activity"></span>
+                                          </p>
+                                                        </div>
+            </a>

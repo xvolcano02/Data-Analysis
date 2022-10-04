@@ -1,0 +1,20 @@
+### 数据说明
+
+1. house_code:房子的唯一标识符
+2. city:所在所在城市
+3. area:所在的区
+4. street:所在街道
+5.  rent_type:租房类型
+6. region:小区名
+7. rent_price:每月租金
+8. house_type:户型
+9. house_size:房屋面积
+10. des:房屋描述
+11. direc:房子方位
+12. level:楼层
+13. have_lift:是否有电梯
+14. longtitude:经度
+15. latitude:维度
+16. distance:距最近地铁距离
+17. url:租房链接
+18. avg_price:单位面积房价
